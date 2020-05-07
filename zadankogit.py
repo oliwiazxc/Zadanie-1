@@ -13,3 +13,4 @@ for i in range(3):
     print('lista= ', lista)
     print('ostatni element = ', ostatni(lista))
     print()
+print("mogę edytować tylko mastera noo:((")
